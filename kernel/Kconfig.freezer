@@ -1,2 +1,5 @@
 config FREEZER
 	def_bool PM_SLEEP || CGROUP_FREEZER
+
+config ZTE_CGROUP_FREEZER
+	bool "ZTE cgourp freezer feature"
