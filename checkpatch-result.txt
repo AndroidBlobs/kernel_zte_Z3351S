@@ -1,0 +1,2 @@
+0001-camera-add-AF-about-low-power-for-P671S01.patch:6: ERROR: Remove Gerrit Change-Id's before submitting upstream.
+0001-camera-add-AF-about-low-power-for-P671S01.patch total: 1 errors, 0 warnings, 28 lines checked
